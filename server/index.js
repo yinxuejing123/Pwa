@@ -8,7 +8,7 @@ const bodyParser = require('body-parser')
 const path = require('path')
 const fs = require('fs')
 const app = express()
-const port = 8005
+const port = 8001
 
 // 设定静态文件目录，比如本地文件
 // 目录为 pwa-book-demo/public/images，访问

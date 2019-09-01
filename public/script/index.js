@@ -85,7 +85,7 @@ app.openSidebar = function () {
 app.closeButtombar = function () {
   if (!app.sidebarShow) return
   document.querySelector('.shadow').classList.add('hide')
-  document.querySelector('.bottomBar').classList.add('hide')
+  document.querySelector('.bottom-bar').classList.add('hide')
   app.sidebarShow = false
 }
 
