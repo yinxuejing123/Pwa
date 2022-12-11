@@ -6,7 +6,7 @@
     "server": "node server/index.js"
   },
   "devDependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "eslint": "^5.0.0-alpha",
     "eslint-config-standard": "^12.0.0-alpha",
     "eslint-plugin-import": "^2.12.0",
